@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "csv": "^6.2.5",
+    "csv-stringify": "^6.2.3",
+    "node-blob": "^0.0.2",
+    "oracledb": "^5.5.0",
+    "pg": "^8.8.0",
+    "sequelize": "^6.28.0"
+  }
+}
